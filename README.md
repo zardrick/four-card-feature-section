@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/zardick/four-card-feature-section)
+- Solution URL: [Github Repository](https://github.com/zardrick/four-card-feature-section)
 - Live Site URL: [Live Site](https://zardrick.github.io/four-card-feature-section)
 
 ## My Process
